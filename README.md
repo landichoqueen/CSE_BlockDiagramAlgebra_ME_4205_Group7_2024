@@ -7,4 +7,6 @@ Problem 1
 
 Reduced 
 
+![BERNABE_UNIGO_REDUCEDBLOCKDIAGRAM](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159044674/b7288695-4e82-488a-985e-be333ae05c15)
+
 ![BERNABE_UNIGO_REDUCEDFIGURE1](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159044674/c2ce632e-9d26-4fc2-90c7-6d9b7550fc61)

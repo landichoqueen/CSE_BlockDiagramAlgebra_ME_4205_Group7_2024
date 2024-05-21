@@ -1,4 +1,4 @@
-# CSE_BlockDiagramAlgebra_ME_4205_Group7_2024
+![445907642_970706664363284_7116395094411050226_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/f4ec538f-af6b-4bc3-ab98-6a70a135c9b6)![445907642_970706664363284_7116395094411050226_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/c220b507-cb76-4bf4-864a-140d655bbc81)![444788914_1289576782001170_6735641326648634313_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/9946723e-d9a3-4924-bce8-af8c6dc4ccb1)# CSE_BlockDiagramAlgebra_ME_4205_Group7_2024
 Laboratory Activity 3
 
 Problem 1
@@ -38,9 +38,21 @@ For Equation 2
 ![image](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159034563/fee82790-7255-471d-bf86-3697d278f9c8)
 
 For Equation 3
+![445628662_1707804676419502_625543147765485959_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/9054ec0f-c738-4459-b355-f8c9c48964d2)
+![image](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/83ead061-37be-467d-b9d9-2acb85c1bd6b)
+
+
 For Equation 4
+![444788914_1289576782001170_6735641326648634313_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/d984a532-265a-4409-b9eb-00234cc1cf17)
+![image](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/a1750254-3303-4ad8-ab05-5763e8285e46)
+
+
 For Equation 5
+![445907642_970706664363284_7116395094411050226_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/77f3dad8-b07f-41d6-9d61-5a7e2c7e3c5b)
+
 For Equation 6
+![442426035_765681025613710_6752172370860864378_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/873f9cdf-9c1c-44fe-b31e-99f23eda5052)
+
 
 For Equation 7
 ![441510277_837308644961899_1673338822133635501_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159034563/c8bb8efe-c5a5-460e-85aa-df8f74f69dea)

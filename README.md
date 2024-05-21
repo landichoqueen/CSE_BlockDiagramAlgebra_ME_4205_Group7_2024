@@ -1,4 +1,4 @@
-![445907642_970706664363284_7116395094411050226_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/f4ec538f-af6b-4bc3-ab98-6a70a135c9b6)![445907642_970706664363284_7116395094411050226_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/c220b507-cb76-4bf4-864a-140d655bbc81)![444788914_1289576782001170_6735641326648634313_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/9946723e-d9a3-4924-bce8-af8c6dc4ccb1)# CSE_BlockDiagramAlgebra_ME_4205_Group7_2024
+# CSE_BlockDiagramAlgebra_ME_4205_Group7_2024
 Laboratory Activity 3
 
 Problem 1

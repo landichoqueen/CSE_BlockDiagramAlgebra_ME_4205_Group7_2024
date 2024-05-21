@@ -49,9 +49,13 @@ For Equation 4
 
 For Equation 5
 ![445907642_970706664363284_7116395094411050226_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/77f3dad8-b07f-41d6-9d61-5a7e2c7e3c5b)
+![image](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/11e07b51-b8f2-4214-84f3-950dfebffde7)
+
 
 For Equation 6
 ![442426035_765681025613710_6752172370860864378_n](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/873f9cdf-9c1c-44fe-b31e-99f23eda5052)
+![image](https://github.com/landichoqueen/CSE_BlockDiagramAlgebra_ME_4205_Group7_2024/assets/159035207/464d3389-f964-459e-8fe2-dd9767dade9d)
+
 
 
 For Equation 7
